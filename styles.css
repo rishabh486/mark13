@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
 :root {
-    --primary-color:black;
+    --primary-color:#4338CA;
     --off-white: #F3F4F6;
     --dark-grey: #111827
 }
@@ -67,8 +67,7 @@ hr {
     padding: 1rem 1rem;
     text-align: center;
     color: white;
-    border-top-right-radius: 2.5rem;
-    border-top-left-radius: 2.5rem;
+     border-top-right-radius: 1rem;;
     bottom: 0;
     left: 0;
     position: absolute;
